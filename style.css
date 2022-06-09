@@ -28,10 +28,11 @@ li{padding: 1%;
 
 .mainimage{
 height: 300px;
+width: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    
     
   }
 
