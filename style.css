@@ -1,0 +1,45 @@
+body {
+    background-color:antiquewhite;
+    font-family: Helvetica,Arial,sans-serif;
+    color: black;
+
+}
+
+h1,h2{
+    border-radius: 8px;
+    background-color:white;
+    padding: 10px 10px;
+    text-align: center;
+
+
+}
+
+.footer{
+
+    text-align: center;
+}
+
+li{padding: 1%;
+    
+
+
+
+}
+
+.mainimage{
+height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+  }
+
+
+  .tagline{
+    text-align: center;
+
+
+  }
+
+ 
